@@ -1,6 +1,6 @@
 streamlit
 sentence-transformers
-transformers
+transformers==4.41.2
 torch
 torchvision
 numpy
