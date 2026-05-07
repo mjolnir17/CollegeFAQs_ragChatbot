@@ -2,6 +2,7 @@ streamlit
 sentence-transformers
 transformers
 torch
+torchvision
 numpy
-pickle-mixin
 faiss-cpu
+pickle-mixin
