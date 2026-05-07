@@ -1,0 +1,7 @@
+streamlit
+sentence-transformers
+transformers
+torch
+numpy
+pickle-mixin
+faiss-cpu==1.7.4
